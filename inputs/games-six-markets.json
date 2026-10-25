@@ -1,0 +1,6 @@
+{
+  "countries": ["us", "gb", "de", "jp", "br", "in"],
+  "charts": ["top-free", "top-grossing"],
+  "categories": ["all-games"],
+  "limit": 100
+}

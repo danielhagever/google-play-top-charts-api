@@ -1,0 +1,7 @@
+{
+  "countries": ["us"],
+  "charts": ["trending", "top-new-free"],
+  "categories": ["all-apps"],
+  "limit": 50,
+  "includeDetails": true
+}

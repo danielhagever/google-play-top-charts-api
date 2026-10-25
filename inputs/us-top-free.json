@@ -1,0 +1,6 @@
+{
+  "countries": ["us"],
+  "charts": ["top-free"],
+  "categories": ["all-apps"],
+  "limit": 100
+}
