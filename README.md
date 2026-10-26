@@ -149,7 +149,7 @@ same row shape for Apple's charts, so the two join cleanly.
 
 ## Related
 
-- [App Store Top Charts Scraper](https://apify.com/glitchbound/app-charts-scraper): iOS Top Free, Paid and Grossing by country.
+- [App Store Top Charts Scraper](https://apify.com/glitchbound/app-charts-scraper): iOS Top Free, Paid and Grossing by country; quick start in [app-store-top-charts](https://github.com/danielhagever/app-store-top-charts).
 - [App Store & Google Play Scraper](https://apify.com/glitchbound/app-store-scraper): one app's ratings, price and metadata in both stores.
 - [App Store & Google Play Reviews Scraper](https://apify.com/glitchbound/app-reviews-scraper): every review for an app, both stores.
 - [ASO Keyword Rank Tracker](https://apify.com/glitchbound/aso-keyword-rank-tracker): where an app ranks for a keyword in both stores.
